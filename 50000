@@ -1,0 +1,1 @@
+elect app_name\, rating\, category from analytics where min_installs group by category order by rating desc
